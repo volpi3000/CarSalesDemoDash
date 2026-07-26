@@ -1,0 +1,14 @@
+[
+  {"Date":"2025-01-03","Region":"South","Country":"Italy","Model":"Porsche 911","VIN":"ZX9K2LM4NP7QRS1TU","Revenue":198500.00,"Discount":2.1,"Sales_Channel":"Dealer","Salesperson":"Maria Fischer","Conversion_Rate":61.2,"Customer_Segment":"B2C"},
+  {"Date":"2025-01-11","Region":"West","Country":"France","Model":"Mercedes E-Class","VIN":"AB3CD5EF7GH9IJ1KL","Revenue":74300.50,"Discount":7.8,"Sales_Channel":"Online","Salesperson":"Laura Richter","Conversion_Rate":38.4,"Customer_Segment":"B2B"},
+  {"Date":"2025-01-19","Region":"Nord","Country":"Sweden","Model":"BMW X5","VIN":"MN2OP4QR6ST8UV0WX","Revenue":112400.00,"Discount":4.5,"Sales_Channel":"Fleet","Salesperson":"Klaus Weber","Conversion_Rate":55.0,"Customer_Segment":"B2B"},
+  {"Date":"2025-02-02","Region":"East","Country":"Poland","Model":"VW Golf","VIN":"YZ1AB3CD5EF7GH9IJ","Revenue":31200.00,"Discount":15.0,"Sales_Channel":"Online","Salesperson":"Stefan Bauer","Conversion_Rate":22.1,"Customer_Segment":"B2C"},
+  {"Date":"2025-02-14","Region":"South","Country":"Spain","Model":"Audi A4","VIN":"KL2MN4OP6QR8ST0UV","Revenue":56800.75,"Discount":9.3,"Sales_Channel":"Dealer","Salesperson":"Anna Schmidt","Conversion_Rate":44.7,"Customer_Segment":"B2C"},
+  {"Date":"2025-02-28","Region":"Nord","Country":"Norway","Model":"BMW 5 Series","VIN":"WX3YZ5AB7CD9EF1GH","Revenue":93100.00,"Discount":3.2,"Sales_Channel":"Fleet","Salesperson":"Markus Schneider","Conversion_Rate":67.3,"Customer_Segment":"B2B"},
+  {"Date":"2025-03-07","Region":"West","Country":"Belgium","Model":"Audi Q5","VIN":"IJ4KL6MN8OP0QR2ST","Revenue":134600.00,"Discount":6.6,"Sales_Channel":"Fleet","Salesperson":"Julia Koch","Conversion_Rate":49.8,"Customer_Segment":"B2B"},
+  {"Date":"2025-03-15","Region":"East","Country":"Hungary","Model":"Mercedes C-Class","VIN":"UV5WX7YZ9AB1CD3EF","Revenue":48900.25,"Discount":11.1,"Sales_Channel":"Online","Salesperson":"Sandra Hoffmann","Conversion_Rate":31.5,"Customer_Segment":"B2C"},
+  {"Date":"2025-03-22","Region":"South","Country":"Greece","Model":"VW Passat","VIN":"GH6IJ8KL0MN2OP4QR","Revenue":42750.00,"Discount":13.9,"Sales_Channel":"Dealer","Salesperson":"Thomas Müller","Conversion_Rate":19.6,"Customer_Segment":"B2C"},
+  {"Date":"2025-04-01","Region":"Nord","Country":"Denmark","Model":"Porsche 911","VIN":"ST7UV9WX1YZ3AB5CD","Revenue":215000.00,"Discount":1.5,"Sales_Channel":"Dealer","Salesperson":"Maria Fischer","Conversion_Rate":72.4,"Customer_Segment":"B2C"},
+  {"Date":"2025-04-09","Region":"West","Country":"Netherlands","Model":"BMW 3 Series","VIN":"EF8GH0IJ2KL4MN6OP","Revenue":61400.00,"Discount":8.4,"Sales_Channel":"Online","Salesperson":"Laura Richter","Conversion_Rate":35.9,"Customer_Segment":"B2C"},
+  {"Date":"2025-04-14","Region":"East","Country":"Czech Republic","Model":"Audi A4","VIN":"QR9ST1UV3WX5YZ7AB","Revenue":59200.00,"Discount":10.2,"Sales_Channel":"Fleet","Salesperson":"Klaus Weber","Conversion_Rate":41.1,"Customer_Segment":"B2B"}
+]
